@@ -6,18 +6,27 @@ class Solution {
         //all even of ans we put nums one by one till n;
         //all odd of ans we put nums from n to 2n-1
 
+        int x=0;//even ptr
+        int y=n;//odd ptr
+
+        int f=0;
+
         for(int i=0;i<n;i++){
+     
+            ans[f]=nums[x];
+
+            f++;
+
+            ans[f]=nums[y];
+
+            x++;
+            y++;
+
+            f++;
             
-            ans[2*i]=nums[i];
         }
 
-        int a=1;
-
-        for(int i=n;i<2*n;i++){
-
-            ans[a]=nums[i];
-            a=a+2;
-        }
+        
         return ans;
 
         
