@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/G-karthick0501/DSA/tree/master/0414-third-maximum-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/G-karthick0501/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/G-karthick0501/DSA/tree/master/1580-shuffle-the-array) |
 | [1839-decode-xored-array](https://github.com/G-karthick0501/DSA/tree/master/1839-decode-xored-array) |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1839-decode-xored-array](https://github.com/G-karthick0501/DSA/tree/master/1839-decode-xored-array) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/G-karthick0501/DSA/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
